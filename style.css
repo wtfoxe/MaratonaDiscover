@@ -283,7 +283,7 @@ input {
     align-items: center;
 }
 
-.input-group.actions.button, 
+.input-group.actions.button, i
 .input-group.actions button{
     width: 48%;
 }
